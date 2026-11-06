@@ -1,0 +1,11 @@
+{
+  "id": "local-dictation",
+  "name": "Speech Kit",
+  "version": "2026.10.1",
+  "minAppVersion": "1.11.5",
+  "description": "Local speech and language toolkit for notes. Dictate, transcribe meetings, translate text, and read notes aloud with on-device models.",
+  "author": "Alexander Brittain",
+  "authorUrl": "https://github.com/brittain9",
+  "helpUrl": "https://github.com/brittain9/speech-kit-obsidian-plugin",
+  "isDesktopOnly": true
+}
