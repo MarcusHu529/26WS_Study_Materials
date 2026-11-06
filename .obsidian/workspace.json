@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUD 26WS/Advanced Problem Solving and Search/Lectures/01 - Uninformed and Informed Search/Traditional Search Algorithms Notes.md",
+                "file": "TUD 26WS/Computer Vision/Lectures/01 - Linear and Integer Optimization/Linear Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Traditional Search Algorithms Notes"
+              "title": "Linear Programming"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5086555480957
+    "width": 324.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "ee2ca9f12d36186e",
@@ -187,16 +188,17 @@
       "pdf-notes:PDF.notes (New blank file)": false
     }
   },
-  "active": "0b604da650e7395c",
+  "active": "4619df27023abe0e",
   "lastOpenFiles": [
+    "To-do list.md",
+    "TUD 26WS/Computer Vision/Lectures/01 - Linear and Integer Optimization/Linear Programming.md",
+    "TUD 26WS/Computer Vision/Lectures/01 - Linear and Integer Optimization/linear-programming-1.pdf",
+    "TUD 26WS/Computer Vision/Lectures/01 - Linear and Integer Optimization/linear-programming-2.pdf",
+    "TUD 26WS/Advanced Problem Solving and Search/Lectures/01 - Uninformed and Informed Search/Traditional Search Algorithms Notes.md",
     "26WS_Study_Materials",
     "TUD 26WS/Advanced Problem Solving and Search/Advanced Problem Solving and Search Overview.md",
     "TUD 26WS/Computer Vision/Computer Vision Overview.md",
     "Logistic Regression.md",
-    "To-do list.md",
-    "TUD 26WS/Computer Vision/Lectures/01 - Linear and Integer Optimization/Linear Optimization.md",
-    "TUD 26WS/Computer Vision/Lectures/01 - Linear and Integer Optimization/linear-programming-1.pdf",
-    "TUD 26WS/Computer Vision/Lectures/01 - Linear and Integer Optimization/linear-programming-2.pdf",
     "TUD 26WS/Machine Learning/Lectures/03 - Supervised Learning - Linear Functions/03-supervised-learning-linear.pdf",
     "TUD 26WS/Machine Learning/Exercises/03 - Binary Decision Trees/Binary Decision Trees - Exercise 03.pdf",
     "TUD 26WS/Advanced Problem Solving and Search/Exercises/01 - A-Star Search and Dynamic Programming/A-Star Search and Dynamic Programming - Tutorial 01.pdf",
@@ -205,11 +207,9 @@
     "TUD 26WS/Distributed Systems/Lectures/00 - Foundations/Introduction Notes.md",
     "TUD 26WS/Advanced Problem Solving and Search/Exercises/01 - A-Star Search and Dynamic Programming/A-Star Search and Dynamic Programming - Tutorial 01 - Solutions.md",
     "TUD 26WS/Distributed Systems/Lectures/00 - Foundations/Distributed Systems - Foundations.pdf",
-    "TUD 26WS/Advanced Problem Solving and Search/Lectures/01 - Uninformed and Informed Search/Traditional Search Algorithms Notes.md",
     "TUD 26WS/Advanced Problem Solving and Search/Lectures/01 - Uninformed and Informed Search/Uninformed vs Informed Search.pdf",
     "TUD 26WS/Data Visualization/Lectures/01 - Perception/DataVis-2026-02_Perception.pdf",
     "Screenshots/Pasted image 20261101174400.png",
-    "TUD 26WS/Advanced Problem Solving and Search/Lectures/01 - Uninformed and Informed Search/Self-Study Materials/Informed_Search.pdf",
     "TUD 26WS/Advanced Problem Solving and Search/Lectures/00 - Basic Concepts/APSS Introduction Notes.md",
     "TUD 26WS/Machine Learning/Machine Learning Overview.md",
     "TUD 26WS/Data Visualization/Exercises/01 - Foundations and Dear Data/DataVis CW 00 & 01.md",

@@ -38,7 +38,7 @@ Existing note titles are preserved. Future topic folders are prepared but empty;
 ### 01 — Linear and Integer Optimization
 
 - Linear and integer optimization for computer vision
-- Notes: [[Linear Optimization]]
+- Notes: [[Linear Programming]]
 - Local slides: [[linear-programming-1.pdf|Part 1]] · [[linear-programming-2.pdf|Part 2]]
 
 ### 02 — Operators on Digital Images
@@ -95,7 +95,7 @@ Exercise topics were checked against the local sheets. Submission deadlines and 
 
 ## Self-study and open questions
 
-Open questions are currently recorded at the top of [[Operators]] and [[Linear Optimization]]. Keep questions with their relevant topic and mark them resolved as you study.
+Open questions are currently recorded at the top of [[Operators]] and [[Linear Programming]]. Keep questions with their relevant topic and mark them resolved as you study.
 
 ## Final examination
 

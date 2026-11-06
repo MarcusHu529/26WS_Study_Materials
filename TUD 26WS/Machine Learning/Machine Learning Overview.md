@@ -119,7 +119,7 @@ Future topic folders are prepared but empty; an empty folder does not indicate s
 - Linear and integer optimization for machine learning
 - Partial optimality for machine learning
 - Local slides: [[Linear Optimization 01.pdf|Linear optimization — Part 1]] · [[Linear Optimization 02.pdf|Linear optimization — Part 2]]
-- Related notes from Computer Vision: [[Linear Optimization]]
+- Related notes from Computer Vision: [[Linear Programming]]
 
 ## Exercises
 
