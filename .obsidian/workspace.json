@@ -11,14 +11,12 @@
             "id": "2d2b38f85be57684",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "TUD 26WS/Deutsch A1.1/wk-1/Lectures/Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "TUD 26WS/Computer Vision/Lectures/02 - Operators on Digital Images/01-operators.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Notes"
+              "icon": "lucide-file-text",
+              "title": "01-operators"
             }
           }
         ]
@@ -189,9 +187,17 @@
   },
   "active": "2d2b38f85be57684",
   "lastOpenFiles": [
-    "TUD 26WS/Deutsch A1.1/Deutsch A1.1 Overview.md",
-    "TUD 26WS/Deutsch A1.1/wk-1/Lectures/spektrum_a1_wort_en.pdf",
+    "TUD 26WS/Computer Vision/Lectures/02 - Operators on Digital Images/Digital Images.md",
+    "TUD 26WS/Computer Vision/Lectures/02 - Operators on Digital Images/Digital Image Slide.png",
+    "TUD 26WS/Computer Vision/Lectures/02 - Operators on Digital Images/Operators.md",
+    "TUD 26WS/Computer Vision/Lectures/02 - Operators on Digital Images/01-operators.pdf",
+    "TUD 26WS/Deutsch A1.1/Vom Wort zum Satz Buch/heft_5.pdf",
+    "TUD 26WS/Deutsch A1.1/Vom Wort zum Satz Buch/heft_4.pdf",
+    "TUD 26WS/Deutsch A1.1/Vom Wort zum Satz Buch/heft_2.pdf",
+    "TUD 26WS/Deutsch A1.1/Vom Wort zum Satz Buch/heft_1.pdf",
     "TUD 26WS/Deutsch A1.1/wk-1/Lectures/Notes.md",
+    "TUD 26WS/Deutsch A1.1/wk-1/Lectures/spektrum_a1_wort_en.pdf",
+    "TUD 26WS/Deutsch A1.1/Deutsch A1.1 Overview.md",
     "To-do list.md",
     "TUD 26WS/Computer Vision/Computer Vision Overview.md",
     "TUD 26WS/Data Visualization/Data Visualization Overview.md",
@@ -201,12 +207,7 @@
     "TUD 26WS/Machine Learning/Lectures/00 - Introduction/Machine Learning - Introduction.pdf",
     "TUD 26WS/Machine Learning/Lectures/02 - Supervised Learning - Binary Decision Trees/Binary Decision Trees.md",
     "TUD 26WS/Machine Learning/Lectures/01 - Supervised Learning - Introduction/01-supervised-learning-introduction.pdf",
-    "TUD 26WS/Machine Learning/Lectures/02 - Supervised Learning - Binary Decision Trees/02-binary-decision-trees.pdf",
-    "TUD 26WS/Distributed Systems/Lectures/01 - Distributed System Architectures/Architectural Patterns.pdf",
     "TUD 26WS/Distributed Systems/Lectures/01 - Distributed System Architectures/Architectural Patterns.md",
-    "TUD 26WS/Advanced Problem Solving and Search/Lectures/02 - Local Search and Simulated Annealing/Local Search.pdf",
-    "TUD 26WS/Computer Vision/Lectures/03 - Machine Learning for Computer Vision/03-mlcv-2.pdf",
-    "TUD 26WS/Computer Vision/Lectures/03 - Machine Learning for Computer Vision/02-mlcv-1.pdf",
     "TUD 26WS/Data Visualization/Exercises/01 - Foundations and Dear Data/Notes from A1.md",
     "TUD 26WS/Data Visualization/Exercises/01 - Foundations and Dear Data/DataVis CW 00 & 01.md",
     "Logistic Regression.md",
@@ -223,9 +224,6 @@
     "Things left to do.md",
     "TUD 26WS/Data Visualization/Lectures/00 - Introduction/Data Visualization Introduction.md",
     "TUD 26WS/Data Visualization/Exercises/DataVis CW 00 & 01.md",
-    "TO-DOs.md",
-    "TUD 26WS/Data Visualization/Lectures/03 - Visual Attributes/Mapping to Visual Variables.md",
-    "TUD 26WS/Computer Vision/Lectures/02 - Operators on Digital Images/Digital Image Slide.png",
     "TUD 26WS/Computer Vision/Operators on Digital Images/Digital images/Digital Image Slide.png",
     "Screenshots/Pasted image 20261017141850.png",
     "Screenshots/DataVis Pipeline.png",

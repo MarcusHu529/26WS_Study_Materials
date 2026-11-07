@@ -24,3 +24,35 @@ Ich glaube, Bern ist in der Schweiz. Ich weiss nicht, wo xyz ist, Wo ist yzx.
 ig = "ich" / "ik"
 wichtig, Leipzig
 
+Steffi: Kommt, in
+Viktor: aus, Er, Lernt
+Max: ist, aus, spreche
+Lara und Anna: wohne, lerne, gern
+sind
+
+Kannst du den Namen bitte buchstabieren?
+
+Was machst du gern?
+Was machen Sie gern?
+
+Delshan
+Er spielet cricket gern
+
+Arumraj
+Gern Fussball
+
+Das ist Martina
+Sie kommt aus der Schweiz
+Sie wohnt in Bern
+Sie spricht Deutsch und Franzosisch
+Sie lernt speachen gern
+
+Das sind Lars, Rasmus und Johan.
+Sie kommen aus Danemark
+Sie wohne in Kopenhagen
+Sie sprichen Danisch, schwedisch und englisch.
+Sie spielen Jazz gern.
+
+Anjalee
+Sinhala, English, und Deutsch
+
