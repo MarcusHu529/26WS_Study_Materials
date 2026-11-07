@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2b15012d8cea38ce",
+        "id": "e0d97a58faa21153",
         "type": "tabs",
         "children": [
           {
-            "id": "4619df27023abe0e",
+            "id": "2d2b38f85be57684",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TUD 26WS/Computer Vision/Lectures/01 - Linear and Integer Optimization/Linear Programming.md",
+                "file": "TUD 26WS/Deutsch A1.1/wk-1/Lectures/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Programming"
+              "title": "Notes"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5086555480957,
-    "collapsed": true
+    "width": 324.5086555480957
   },
   "right": {
     "id": "ee2ca9f12d36186e",
@@ -188,32 +187,37 @@
       "pdf-notes:PDF.notes (New blank file)": false
     }
   },
-  "active": "4619df27023abe0e",
+  "active": "2d2b38f85be57684",
   "lastOpenFiles": [
+    "TUD 26WS/Deutsch A1.1/Deutsch A1.1 Overview.md",
+    "TUD 26WS/Deutsch A1.1/wk-1/Lectures/spektrum_a1_wort_en.pdf",
+    "TUD 26WS/Deutsch A1.1/wk-1/Lectures/Notes.md",
     "To-do list.md",
-    "TUD 26WS/Computer Vision/Lectures/01 - Linear and Integer Optimization/Linear Programming.md",
-    "TUD 26WS/Computer Vision/Lectures/01 - Linear and Integer Optimization/linear-programming-1.pdf",
-    "TUD 26WS/Computer Vision/Lectures/01 - Linear and Integer Optimization/linear-programming-2.pdf",
-    "TUD 26WS/Advanced Problem Solving and Search/Lectures/01 - Uninformed and Informed Search/Traditional Search Algorithms Notes.md",
-    "26WS_Study_Materials",
-    "TUD 26WS/Advanced Problem Solving and Search/Advanced Problem Solving and Search Overview.md",
     "TUD 26WS/Computer Vision/Computer Vision Overview.md",
-    "Logistic Regression.md",
+    "TUD 26WS/Data Visualization/Data Visualization Overview.md",
+    "TUD 26WS/Distributed Systems/Distributed Systems Overview.md",
     "TUD 26WS/Machine Learning/Lectures/03 - Supervised Learning - Linear Functions/03-supervised-learning-linear.pdf",
-    "TUD 26WS/Machine Learning/Exercises/03 - Binary Decision Trees/Binary Decision Trees - Exercise 03.pdf",
-    "TUD 26WS/Advanced Problem Solving and Search/Exercises/01 - A-Star Search and Dynamic Programming/A-Star Search and Dynamic Programming - Tutorial 01.pdf",
+    "TUD 26WS/Machine Learning/Lectures/04 - Supervised Learning - Deep Learning/04-deep-learning-1.pdf",
+    "TUD 26WS/Machine Learning/Lectures/00 - Introduction/Machine Learning - Introduction.pdf",
+    "TUD 26WS/Machine Learning/Lectures/02 - Supervised Learning - Binary Decision Trees/Binary Decision Trees.md",
+    "TUD 26WS/Machine Learning/Lectures/01 - Supervised Learning - Introduction/01-supervised-learning-introduction.pdf",
+    "TUD 26WS/Machine Learning/Lectures/02 - Supervised Learning - Binary Decision Trees/02-binary-decision-trees.pdf",
     "TUD 26WS/Distributed Systems/Lectures/01 - Distributed System Architectures/Architectural Patterns.pdf",
     "TUD 26WS/Distributed Systems/Lectures/01 - Distributed System Architectures/Architectural Patterns.md",
+    "TUD 26WS/Advanced Problem Solving and Search/Lectures/02 - Local Search and Simulated Annealing/Local Search.pdf",
+    "TUD 26WS/Computer Vision/Lectures/03 - Machine Learning for Computer Vision/03-mlcv-2.pdf",
+    "TUD 26WS/Computer Vision/Lectures/03 - Machine Learning for Computer Vision/02-mlcv-1.pdf",
+    "TUD 26WS/Data Visualization/Exercises/01 - Foundations and Dear Data/Notes from A1.md",
+    "TUD 26WS/Data Visualization/Exercises/01 - Foundations and Dear Data/DataVis CW 00 & 01.md",
+    "Logistic Regression.md",
+    "TUD 26WS/Computer Vision/Lectures/01 - Linear and Integer Optimization/Linear Programming.md",
+    "TUD 26WS/Advanced Problem Solving and Search/Lectures/01 - Uninformed and Informed Search/Traditional Search Algorithms Notes.md",
+    "TUD 26WS/Advanced Problem Solving and Search/Advanced Problem Solving and Search Overview.md",
     "TUD 26WS/Distributed Systems/Lectures/00 - Foundations/Introduction Notes.md",
     "TUD 26WS/Advanced Problem Solving and Search/Exercises/01 - A-Star Search and Dynamic Programming/A-Star Search and Dynamic Programming - Tutorial 01 - Solutions.md",
-    "TUD 26WS/Distributed Systems/Lectures/00 - Foundations/Distributed Systems - Foundations.pdf",
-    "TUD 26WS/Advanced Problem Solving and Search/Lectures/01 - Uninformed and Informed Search/Uninformed vs Informed Search.pdf",
-    "TUD 26WS/Data Visualization/Lectures/01 - Perception/DataVis-2026-02_Perception.pdf",
     "Screenshots/Pasted image 20261101174400.png",
     "TUD 26WS/Advanced Problem Solving and Search/Lectures/00 - Basic Concepts/APSS Introduction Notes.md",
     "TUD 26WS/Machine Learning/Machine Learning Overview.md",
-    "TUD 26WS/Data Visualization/Exercises/01 - Foundations and Dear Data/DataVis CW 00 & 01.md",
-    "TUD 26WS/Data Visualization/Data Visualization Overview.md",
     "TUD 26WS/Data Visualization/Lectures/02 - Visual Attributes/Mapping to Visual Variables.md",
     "TUD 26WS/Data Visualization/Exercises/01 - Exercise/DataVis CW 00 & 01.md",
     "Things left to do.md",
@@ -221,11 +225,6 @@
     "TUD 26WS/Data Visualization/Exercises/DataVis CW 00 & 01.md",
     "TO-DOs.md",
     "TUD 26WS/Data Visualization/Lectures/03 - Visual Attributes/Mapping to Visual Variables.md",
-    "TUD 26WS/Distributed Systems/Distributed Systems Overview.md",
-    "TUD 26WS/Distributed Systems/Lectures/01 - Foundations/Introductions.md",
-    "TUD 26WS/Machine Learning/Lectures/02 - Supervised Learning - Binary Decision Trees/Binary Decision Trees.md",
-    "TUD 26WS/Computer Vision/Lectures/01 - Mathematical Foundations/Linear Optimization for Computer Vision.md",
-    "TUD 26WS/Computer Vision/Lectures/02 - Operators on Digital Images/Operators.md",
     "TUD 26WS/Computer Vision/Lectures/02 - Operators on Digital Images/Digital Image Slide.png",
     "TUD 26WS/Computer Vision/Operators on Digital Images/Digital images/Digital Image Slide.png",
     "Screenshots/Pasted image 20261017141850.png",

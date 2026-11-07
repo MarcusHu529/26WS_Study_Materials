@@ -53,9 +53,7 @@ Existing note titles are preserved. Future topic folders are prepared but empty;
 ### 03 — Machine Learning for Computer Vision
 
 - Notes: [[Logistic Regression]]
-
-- [Logistic regression — online slides](https://mlcv.cs.tu-dresden.de/courses/26-winter/cv1/02-mlcv-1.pdf)
-- [Deep learning for computer vision — online slides](https://mlcv.cs.tu-dresden.de/courses/26-winter/cv1/03-mlcv-2.pdf)
+- Local slides: [[02-mlcv-1.pdf|Logistic regression]] · [[03-mlcv-2.pdf|Deep learning for computer vision]]
 - Attention and transformers for computer vision
 
 ### 04 — Classification of Digital Images
@@ -91,11 +89,11 @@ Existing note titles are preserved. Future topic folders are prepared but empty;
 | 01 | Point operators and histogram equalization | [[Point Operators and Histogram Equalization - Exercise 01.pdf]] | [[Point Operators and Histogram Equalization - Exercise 01 Code.zip]] |
 | 02 | Convolution and image filters | [[Convolution and Image Filters - Exercise 02.pdf]] | Not present in the vault |
 
-Exercise topics were checked against the local sheets. Submission deadlines and requirements have not yet been recorded here.
+Exercise 1 is dated 26–30 October 2026 and Exercise 2 is dated 2–6 November 2026. These are the ranges printed on the sheets, not confirmed submission cutoffs. Exercise 1 uses C++ and OpenCV; its archive includes a CMake project, starter code, and two input images.
 
 ## Self-study and open questions
 
-Open questions are currently recorded at the top of [[Operators]] and [[Linear Programming]]. Keep questions with their relevant topic and mark them resolved as you study.
+Open questions are recorded at the top of [[Operators]]; [[Linear Programming]] contains explanations and worked examples. Keep questions with their relevant topic and mark them resolved as you study.
 
 ## Final examination
 
@@ -104,4 +102,6 @@ Open questions are currently recorded at the top of [[Operators]] and [[Linear P
 
 ## Source
 
-Course information and topic order are based on the syllabus supplied by you on 1 November 2026. Online slide links are references; those files have not been downloaded.
+Course information and topic order are based on the syllabus supplied by you on 1 November 2026. Local slide links above reflect the available files. Online links are retained as references; local and online versions have not been compared.
+
+Local materials and links updated on 7 November 2026. File availability does not indicate study or submission completion. Existing administrative information is retained; online schedules and OPAL deadlines were not rechecked in this update. Progress is tracked in [[To-do list]].

@@ -101,7 +101,7 @@ There are **five assignments**, combining practical implementation and theoretic
 | Exercise | Topic | Session date | Existing material |
 | --- | --- | --- | --- |
 | 01 | Foundations / Dear Data, with introduction and toolkits | 14 October 2026 | [[Data Visualization - Coursework and Toolkits.pdf]] · [[Dear Data and Visualization Foundations - Assignment 01.pdf]] · [[DataVis CW 00 & 01]] |
-| 02 | Multivariate data | 4 November 2026 | Not yet in vault |
+| 02 | Multivariate data | 4 November 2026 | [[DataVis-CW-A2.pdf|Assignment 2 — Multivariate visualizations]] |
 | 03 | Graph visualization / networks | 2 December 2026 | Not yet in vault |
 | 04 | Data preparation / elevation data | 9 December 2026 | Not yet in vault |
 | 05 | Volume visualization / volume data | 6 January 2027 | Not yet in vault |
@@ -110,7 +110,7 @@ Topic names follow [[Data Visualization - Coursework and Toolkits.pdf#page=5|The
 
 ### Working arrangements
 
-- Work in **teams of three from Assignment 2 onward**.
+- The coursework introduction describes teams of three from Assignment 2 onward. However, [[DataVis-CW-A2.pdf#page=7|Assignment 2’s specific instructions]] explicitly permit either groups of about three or individual work. For Assignment 2, use that assignment-specific guidance; check later sheets for their arrangements.
 - Coursework topics are included in the examination.
 - There are **no bonus points**, and results from earlier semesters do not transfer.
 - The slides say exercises are not routinely reviewed. Feedback can be requested through consultations, the forum, or email.
@@ -122,6 +122,8 @@ Sources: [[Data Visualization - Coursework and Toolkits.pdf#page=4|Coursework ru
 
 ### Assignment 1 — Dear Data
 
+- Available review material: [[DataVis-CW-A1-solution.pdf|Assignment 1 solutions]] and [[Notes from A1|Assignment 1 feedback notes]]. These files do not establish personal submission status.
+
 - Collect your own data over one week and create at least one pen-and-paper visualization per person.
 - Consider the visualization form, visual encodings, and color choices.
 - Complete the accompanying recap questions on misleading visualizations, Gestalt principles, and color scales.
@@ -132,6 +134,19 @@ Sources: [[Data Visualization - Coursework and Toolkits.pdf#page=4|Coursework ru
   - A one-minute explanatory MP4 video, 1080p, H.264, **under 50 MB**
 
 Sources: [[Dear Data and Visualization Foundations - Assignment 01.pdf|Assignment 1]], [[Dear Data and Visualization Foundations - Assignment 01.pdf#page=7|Submission requirements]], and [[Data Visualization - Coursework and Toolkits.pdf#page=9|Pen-and-paper requirement]].
+
+### Assignment 2 — Multivariate Visualizations
+
+- Sheet: [[DataVis-CW-A2.pdf]].
+- Implement an interactive scatterplot using D3.js and the supplied car dataset, encoding four attributes with axes labels and a legend.
+- Allow selection of a data point and display details for six attributes. A starplot is an optional extension.
+- Explain scatterplot matrices, calculate the number of plots for n attributes, sketch an example using three selected cars, and discuss advantages and disadvantages.
+- The sheet links a starter repository containing the dataset and basic files. These supporting files are not currently in the vault.
+- Update the repository README to identify contributors; acknowledge any AI tools used and briefly describe the experience.
+- Submit through OPAL: a TXT file containing answers and a repository link, a JPEG/PNG of the scatterplot-matrix sketch, and a one-minute explanation of the visual variables as MP4 (1080p, H.264, under 50 MB). The sheet also permits submitting source code directly to OPAL as an alternative to external hosting.
+- No submission deadline is printed in the local sheet.
+
+Sources: [[DataVis-CW-A2.pdf#page=2|Scatterplot task]], [[DataVis-CW-A2.pdf#page=3|Interaction]], [[DataVis-CW-A2.pdf#page=4|Starter files and hosting]], [[DataVis-CW-A2.pdf#page=6|Recap]], and [[DataVis-CW-A2.pdf#page=7|Teamwork and submission]].
 
 ### General video requirements
 
@@ -161,3 +176,5 @@ Sources: [[Data Visualization - Course Organization.pdf#page=4|Exam information]
 ## Sources and verification
 
 Organized on 1 November 2026 using your course description, the local organization and coursework PDFs, and the official course and exercise webpages. Key organization and coursework-rule pages were visually checked as well as extracted. Existing files were moved without changing their contents; no additional course PDFs were downloaded.
+
+Local materials and links updated on 7 November 2026. File availability does not indicate study or submission completion. Existing administrative information is retained; online schedules and OPAL deadlines were not rechecked in this update. Progress is tracked in [[To-do list]].

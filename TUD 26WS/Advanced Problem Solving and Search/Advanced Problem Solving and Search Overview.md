@@ -36,7 +36,7 @@ This course does not cover machine learning or neural networks. It was previousl
 - **Exam Preparation:** Revision summaries, practice questions, and exam information when available.
 - **Resources:** Supplementary material used across several topics.
 
-Future topic folders are prepared but empty; an empty folder does not indicate study progress. The existing empty Search Algorithms Notes note is preserved for future use.
+Future topic folders are prepared but empty; an empty folder does not indicate study progress.
 
 ## Lectures and syllabus
 
@@ -55,6 +55,7 @@ Future topic folders are prepared but empty; an empty folder does not indicate s
 ### 02 — Local Search and Simulated Annealing
 
 - Local slides: [[Local Search.pdf]]
+- Related tutorial: [[APSS-T2.pdf|Tutorial 2 — Simulated annealing, GSAT, and stochastic acceptance]]
 
 - Local search
 - Stochastic hill climbing
@@ -93,6 +94,9 @@ Future topic folders are prepared but empty; an empty folder does not indicate s
 | Tutorial | Topic | Sheet | Solutions |
 | --- | --- | --- | --- |
 | 01 | A-star search and dynamic programming | [[A-Star Search and Dynamic Programming - Tutorial 01.pdf]] | [[A-Star Search and Dynamic Programming - Tutorial 01 - Solutions]] (empty note) |
+| 02 | Simulated annealing for a maze, GSAT, and stochastic acceptance | [[APSS-T2.pdf|Tutorial 2]] | No separate solutions file in the vault |
+
+Tutorial 2 is dated 5–9 November 2026 and is currently stored in Exercises/02 -. This printed range does not establish a submission deadline.
 
 Lecture slides and tutorial exercises are uploaded to OPAL for the corresponding sessions. Use the OPAL forum to ask questions and share exercise solutions. Submission requirements and deadlines are not specified in the supplied information.
 
@@ -111,3 +115,5 @@ Study the lecture material and solve the tutorial exercises. The search self-stu
 ## Source
 
 Course information and topic order are based on the syllabus supplied by you on 1 November 2026. Existing files were organized by their previous placement and names; Tutorial 1 was subsequently checked to identify its topics: A-star search and dynamic programming. No additional materials have been downloaded.
+
+Local materials and links updated on 7 November 2026. File availability does not indicate study or submission completion. Existing administrative information is retained; online schedules and OPAL deadlines were not rechecked in this update. Progress is tracked in [[To-do list]].

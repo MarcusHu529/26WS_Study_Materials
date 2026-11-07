@@ -23,7 +23,7 @@ Exercise sessions start from 20 October 2026. The two exercise groups are altern
 ## How this course folder works
 
 - **Lectures:** Numbered syllabus topics. Keep each topic's notes and lecture materials together. Numbers indicate syllabus order, not teaching weeks; the learning category appears in each relevant folder name.
-- **Exercises:** One folder per exercise sheet, containing its PDF, supplied code, and any solutions you write. Use descriptive topics and the original sheet number. The binary decision tree sheet identifies itself as Exercise 3 and is stored in 03 - Binary Decision Trees.
+- **Exercises:** One folder per exercise sheet, containing its PDF, supplied code, and any solutions you write. Use descriptive topics and the original sheet number. The binary decision tree sheet identifies itself as Exercise 3 and is stored in Binary Decision Trees. Exercise 4 is stored in Deciding with linear functions Logistic regression.
 - **Exam Preparation:** Revision summaries, practice questions, and exam information when available.
 - **Resources:** Supplementary material used across several topics.
 
@@ -40,6 +40,7 @@ Future topic folders are prepared but empty; an empty folder does not indicate s
 
 #### 01 — Introduction
 
+- Local slides: [[01-supervised-learning-introduction.pdf]]
 - [Online slides](https://mlcv.cs.tu-dresden.de/courses/26-winter/ml1/01-supervised-learning-introduction.pdf)
 
 #### 02 — Binary Decision Trees
@@ -67,6 +68,7 @@ Future topic folders are prepared but empty; an empty folder does not indicate s
 - Artificial neural networks
 - Non-convexity
 - Forward propagation algorithm and backward propagation algorithm
+- Local slides: [[04-deep-learning-1.pdf]]
 - [Online slides](https://mlcv.cs.tu-dresden.de/courses/26-winter/ml1/04-deep-learning-1.pdf)
 
 #### 05 — Attention and Transformers
@@ -123,15 +125,20 @@ Future topic folders are prepared but empty; an empty folder does not indicate s
 
 ## Exercises
 
-| Exercise | Topic | Sheet | Supplied code |
-| --- | --- | --- | --- |
-| 03 | Binary decision trees | [[Binary Decision Trees - Exercise 03.pdf]] | Not present in this course folder |
+| Exercise | Topic | Sheet | Printed due range | Supplied code |
+| --- | --- | --- | --- | --- |
+| 03 | Binary decision trees | [[Binary Decision Trees - Exercise 03.pdf]] | 2–7 November 2026 | Not present in this course folder |
+| 04 | Logistic regression: derivation, convexity, gradient, and gradient descent | [[04.pdf|Logistic regression — Exercise 4]] | 9–14 November 2026 | Referenced by the sheet; not present in the vault |
 
-Exercise 3 numbering is confirmed by its PDF. Submission details have not yet been recorded here.
+The ranges above are printed as “due” on the sheets. An exact submission cutoff or group-specific deadline is not established here; check OPAL and your exercise group instructions.
+
+Exercise 4 includes a flower-segmentation coding task using logistic regression and gradient descent. Study it alongside [[03-supervised-learning-linear.pdf]] and [[Logistic Regression]].
+
+The files [[lp-01.pdf|Linear optimization — additional copy of Part 1]] and [[lp-02.pdf|Linear optimization — additional copy of Part 2]] in Exercises/Linear and Integer Optimization are byte-identical copies of [[Linear Optimization 01.pdf]] and [[Linear Optimization 02.pdf]] in Lectures/12 - Optimization and Partial Optimality. They are lecture slides, not two additional exercise sheets.
 
 ## Self-study
 
-Use the topic folders for explanations, worked examples, and open questions. Existing notes: [[Binary Decision Trees]].
+Use the topic folders for explanations, worked examples, and open questions. Existing notes: [[Binary Decision Trees]], [[Logistic Regression]], and the shared [[Linear Programming]] note.
 
 ## Final examination
 
@@ -141,3 +148,5 @@ Use the topic folders for explanations, worked examples, and open questions. Exi
 ## Source
 
 Course information and topic order are based on the syllabus supplied by you on 1 November 2026. Online slide links are references; no additional files have been downloaded or compared with local slide versions.
+
+Local materials and links updated on 7 November 2026. File availability does not indicate study or submission completion. Existing administrative information is retained; online schedules and OPAL deadlines were not rechecked in this update. Progress is tracked in [[To-do list]].

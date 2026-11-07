@@ -31,7 +31,7 @@ Winter Term 2026/2027 · TUD
 - **Exam Preparation:** Revision summaries, practice questions, and exam information when available.
 - **Resources:** Supplementary material used across several topics.
 
-The common course structure is retained, with Seminars added for this course's teaching format. Future topic folders are prepared but empty; this does not indicate study progress. The existing empty Introductions note is preserved.
+The common course structure is retained, with Seminars added for this course's teaching format. Future topic folders are prepared but empty; this does not indicate study progress.
 
 ## Lectures and syllabus
 
@@ -40,7 +40,7 @@ Topic order comes from [[Distributed Systems - Foundations.pdf#page=10|Lecture o
 ### 00 — Foundations
 
 - Local slides: [[Distributed Systems - Foundations.pdf]]
-- Notes: [[Introduction Notes]] — currently empty
+- Notes: [[Introduction Notes]] — availability, dependability, and the CAP theorem
 - Main areas covered in the slides:
   - Definition, examples, benefits, and challenges of distributed systems
   - System models: nodes, network links, and timing
@@ -53,7 +53,7 @@ Topic order comes from [[Distributed Systems - Foundations.pdf#page=10|Lecture o
 ### 01 — Distributed System Architectures
 
 - Local slides: [[Architectural Patterns.pdf]]
-- Notes: [[Architectural Patterns]]
+- Notes: [[Architectural Patterns.md|Architectural Patterns]] — architectural design, programming in the large versus in the small, and design decisions
 
 ### 02 — Communication
 
@@ -112,3 +112,5 @@ Source: supplied course information and [[Distributed Systems - Foundations.pdf#
 ## Sources and verification
 
 Organized on 1 November 2026 using your course description and the local 74-page introduction PDF. Administrative pages and the lecture outline were visually reviewed, in addition to text extraction. PDF page numbers above refer to file pages; printed slide numbers differ. No additional course materials have been downloaded.
+
+Local materials and links updated on 7 November 2026. File availability does not indicate study or submission completion. Existing administrative information is retained; online schedules and OPAL deadlines were not rechecked in this update. Progress is tracked in [[To-do list]].
