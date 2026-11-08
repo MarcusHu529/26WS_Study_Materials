@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "TUD 26WS/Computer Vision/Lectures/02 - Operators on Digital Images/01-operators.pdf"
+                "file": "TUD 26WS/Computer Vision/Exercises/01 - Point Operators and Histogram Equalization/Point Operators and Histogram Equalization - Exercise 01.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "01-operators"
+              "title": "Point Operators and Histogram Equalization - Exercise 01"
             }
           }
         ]
@@ -187,10 +187,17 @@
   },
   "active": "2d2b38f85be57684",
   "lastOpenFiles": [
-    "TUD 26WS/Computer Vision/Lectures/02 - Operators on Digital Images/Digital Images.md",
-    "TUD 26WS/Computer Vision/Lectures/02 - Operators on Digital Images/Digital Image Slide.png",
+    "TUD 26WS/Computer Vision/Exercises/02 - Convolution and Image Filters/Convolution and Image Filters - Exercise 02.pdf",
+    "TUD 26WS/Computer Vision/Exercises/01 - Point Operators and Histogram Equalization/Point Operators and Histogram Equalization - Exercise 01.pdf",
+    "To-do list.md",
+    "TUD 26WS/Computer Vision/Lectures/03 - Machine Learning for Computer Vision/03-mlcv-2.pdf",
+    "TUD 26WS/Computer Vision/Lectures/03 - Machine Learning for Computer Vision/02-mlcv-1.pdf",
     "TUD 26WS/Computer Vision/Lectures/02 - Operators on Digital Images/Operators.md",
+    "TUD 26WS/Computer Vision/Lectures/02 - Operators on Digital Images/Digital Images.md",
     "TUD 26WS/Computer Vision/Lectures/02 - Operators on Digital Images/01-operators.pdf",
+    "TUD 26WS/Advanced Problem Solving and Search/Lectures/01 - Uninformed and Informed Search/Traditional Search Algorithms Notes.md",
+    "TUD 26WS/Advanced Problem Solving and Search/Lectures/01 - Uninformed and Informed Search/Uninformed vs Informed Search.pdf",
+    "TUD 26WS/Computer Vision/Lectures/02 - Operators on Digital Images/Digital Image Slide.png",
     "TUD 26WS/Deutsch A1.1/Vom Wort zum Satz Buch/heft_5.pdf",
     "TUD 26WS/Deutsch A1.1/Vom Wort zum Satz Buch/heft_4.pdf",
     "TUD 26WS/Deutsch A1.1/Vom Wort zum Satz Buch/heft_2.pdf",
@@ -198,21 +205,15 @@
     "TUD 26WS/Deutsch A1.1/wk-1/Lectures/Notes.md",
     "TUD 26WS/Deutsch A1.1/wk-1/Lectures/spektrum_a1_wort_en.pdf",
     "TUD 26WS/Deutsch A1.1/Deutsch A1.1 Overview.md",
-    "To-do list.md",
     "TUD 26WS/Computer Vision/Computer Vision Overview.md",
     "TUD 26WS/Data Visualization/Data Visualization Overview.md",
     "TUD 26WS/Distributed Systems/Distributed Systems Overview.md",
-    "TUD 26WS/Machine Learning/Lectures/03 - Supervised Learning - Linear Functions/03-supervised-learning-linear.pdf",
-    "TUD 26WS/Machine Learning/Lectures/04 - Supervised Learning - Deep Learning/04-deep-learning-1.pdf",
-    "TUD 26WS/Machine Learning/Lectures/00 - Introduction/Machine Learning - Introduction.pdf",
     "TUD 26WS/Machine Learning/Lectures/02 - Supervised Learning - Binary Decision Trees/Binary Decision Trees.md",
-    "TUD 26WS/Machine Learning/Lectures/01 - Supervised Learning - Introduction/01-supervised-learning-introduction.pdf",
     "TUD 26WS/Distributed Systems/Lectures/01 - Distributed System Architectures/Architectural Patterns.md",
     "TUD 26WS/Data Visualization/Exercises/01 - Foundations and Dear Data/Notes from A1.md",
     "TUD 26WS/Data Visualization/Exercises/01 - Foundations and Dear Data/DataVis CW 00 & 01.md",
     "Logistic Regression.md",
     "TUD 26WS/Computer Vision/Lectures/01 - Linear and Integer Optimization/Linear Programming.md",
-    "TUD 26WS/Advanced Problem Solving and Search/Lectures/01 - Uninformed and Informed Search/Traditional Search Algorithms Notes.md",
     "TUD 26WS/Advanced Problem Solving and Search/Advanced Problem Solving and Search Overview.md",
     "TUD 26WS/Distributed Systems/Lectures/00 - Foundations/Introduction Notes.md",
     "TUD 26WS/Advanced Problem Solving and Search/Exercises/01 - A-Star Search and Dynamic Programming/A-Star Search and Dynamic Programming - Tutorial 01 - Solutions.md",
