@@ -11,12 +11,14 @@
             "id": "2d2b38f85be57684",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TUD 26WS/Computer Vision/Exercises/01 - Point Operators and Histogram Equalization/Point Operators and Histogram Equalization - Exercise 01.pdf"
+                "file": "TUD 26WS/Computer Vision/Exercises/01 - Point Operators and Histogram Equalization/Point Operators Exercise Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Point Operators and Histogram Equalization - Exercise 01"
+              "icon": "lucide-file",
+              "title": "Point Operators Exercise Notes"
             }
           }
         ]
@@ -187,8 +189,10 @@
   },
   "active": "2d2b38f85be57684",
   "lastOpenFiles": [
-    "TUD 26WS/Computer Vision/Exercises/02 - Convolution and Image Filters/Convolution and Image Filters - Exercise 02.pdf",
     "TUD 26WS/Computer Vision/Exercises/01 - Point Operators and Histogram Equalization/Point Operators and Histogram Equalization - Exercise 01.pdf",
+    "TUD 26WS/Computer Vision/Exercises/01 - Point Operators and Histogram Equalization/Point Operators Exercise Notes.md",
+    "TUD 26WS/Machine Learning/Exercises/Binary Decision Trees/Binary Decision Trees - Exercise 03.pdf",
+    "TUD 26WS/Computer Vision/Exercises/02 - Convolution and Image Filters/Convolution and Image Filters - Exercise 02.pdf",
     "To-do list.md",
     "TUD 26WS/Computer Vision/Lectures/03 - Machine Learning for Computer Vision/03-mlcv-2.pdf",
     "TUD 26WS/Computer Vision/Lectures/03 - Machine Learning for Computer Vision/02-mlcv-1.pdf",
@@ -201,9 +205,7 @@
     "TUD 26WS/Deutsch A1.1/Vom Wort zum Satz Buch/heft_5.pdf",
     "TUD 26WS/Deutsch A1.1/Vom Wort zum Satz Buch/heft_4.pdf",
     "TUD 26WS/Deutsch A1.1/Vom Wort zum Satz Buch/heft_2.pdf",
-    "TUD 26WS/Deutsch A1.1/Vom Wort zum Satz Buch/heft_1.pdf",
     "TUD 26WS/Deutsch A1.1/wk-1/Lectures/Notes.md",
-    "TUD 26WS/Deutsch A1.1/wk-1/Lectures/spektrum_a1_wort_en.pdf",
     "TUD 26WS/Deutsch A1.1/Deutsch A1.1 Overview.md",
     "TUD 26WS/Computer Vision/Computer Vision Overview.md",
     "TUD 26WS/Data Visualization/Data Visualization Overview.md",
@@ -224,7 +226,6 @@
     "TUD 26WS/Data Visualization/Exercises/01 - Exercise/DataVis CW 00 & 01.md",
     "Things left to do.md",
     "TUD 26WS/Data Visualization/Lectures/00 - Introduction/Data Visualization Introduction.md",
-    "TUD 26WS/Data Visualization/Exercises/DataVis CW 00 & 01.md",
     "TUD 26WS/Computer Vision/Operators on Digital Images/Digital images/Digital Image Slide.png",
     "Screenshots/Pasted image 20261017141850.png",
     "Screenshots/DataVis Pipeline.png",
