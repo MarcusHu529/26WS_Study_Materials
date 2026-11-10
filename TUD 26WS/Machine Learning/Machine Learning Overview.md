@@ -120,7 +120,7 @@ Future topic folders are prepared but empty; an empty folder does not indicate s
 
 - Linear and integer optimization for machine learning
 - Partial optimality for machine learning
-- Local slides: [[Linear Optimization 01.pdf|Linear optimization — Part 1]] · [[Linear Optimization 02.pdf|Linear optimization — Part 2]]
+- Local slides: [[lp-01.pdf|Linear optimization — Part 1]] · [[lp-02.pdf|Linear optimization — Part 2]]
 - Related notes from Computer Vision: [[Linear Programming]]
 
 ## Exercises
@@ -134,7 +134,7 @@ The ranges above are printed as “due” on the sheets. An exact submission cut
 
 Exercise 4 includes a flower-segmentation coding task using logistic regression and gradient descent. Study it alongside [[03-supervised-learning-linear.pdf]] and [[Logistic Regression]].
 
-The files [[lp-01.pdf|Linear optimization — additional copy of Part 1]] and [[lp-02.pdf|Linear optimization — additional copy of Part 2]] in Exercises/Linear and Integer Optimization are byte-identical copies of [[Linear Optimization 01.pdf]] and [[Linear Optimization 02.pdf]] in Lectures/12 - Optimization and Partial Optimality. They are lecture slides, not two additional exercise sheets.
+The files [[lp-01.pdf|Linear optimization — Part 1]] and [[lp-02.pdf|Linear optimization — Part 2]] are lecture slides stored in Exercises/Linear and Integer Optimization and linked from topic 12 above. Duplicate copies previously stored in Lectures/12 - Optimization and Partial Optimality were intentionally removed.
 
 ## Self-study
 
@@ -149,4 +149,4 @@ Use the topic folders for explanations, worked examples, and open questions. Exi
 
 Course information and topic order are based on the syllabus supplied by you on 1 November 2026. Online slide links are references; no additional files have been downloaded or compared with local slide versions.
 
-Local materials and links updated on 7 November 2026. File availability does not indicate study or submission completion. Existing administrative information is retained; online schedules and OPAL deadlines were not rechecked in this update. Progress is tracked in [[To-do list]].
+Local materials and links updated on 10 November 2026. File availability does not indicate study or submission completion. Existing administrative information is retained; online schedules and OPAL deadlines were not rechecked in this update. Progress is tracked in [[To-do list]].

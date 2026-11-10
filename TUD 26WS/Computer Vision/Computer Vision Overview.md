@@ -48,7 +48,7 @@ Existing note titles are preserved. Future topic folders are prepared but empty;
 - Linear operators, including convolution
 - Non-linear operators, including edge and corner detection
 - Notes: [[Digital Images]] · [[Operators]]
-- Local material: [[01-operators.pdf|Lecture slides]] · [[Digital Image Slide.png|Digital image illustration]]
+- Local material: [[01-operators.pdf|Lecture slides]]
 
 ### 03 — Machine Learning for Computer Vision
 
@@ -104,4 +104,4 @@ Open questions are recorded at the top of [[Operators]]; [[Linear Programming]] 
 
 Course information and topic order are based on the syllabus supplied by you on 1 November 2026. Local slide links above reflect the available files. Online links are retained as references; local and online versions have not been compared.
 
-Local materials and links updated on 7 November 2026. File availability does not indicate study or submission completion. Existing administrative information is retained; online schedules and OPAL deadlines were not rechecked in this update. Progress is tracked in [[To-do list]].
+Local materials and links updated on 10 November 2026. File availability does not indicate study or submission completion. Existing administrative information is retained; online schedules and OPAL deadlines were not rechecked in this update. Progress is tracked in [[To-do list]].

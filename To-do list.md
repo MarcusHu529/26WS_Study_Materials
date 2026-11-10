@@ -2,7 +2,7 @@ Add tasks with `- [ ] Task`.
 ### Computer Vision 
 - [x] Finish Operator slides
 - [x] Linear programming 2nd slide
-- [ ] Exercise 1
+- [x] Exercise 1
 - [ ] Logistic regression.
 - [ ] Deep Learning
 ### Machine Learning
