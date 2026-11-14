@@ -2,5 +2,6 @@
   "cssTheme": "Tokyo Night",
   "theme": "obsidian",
   "accentColor": "",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showRibbon": true
 }

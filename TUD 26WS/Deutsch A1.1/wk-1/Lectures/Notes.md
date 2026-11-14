@@ -56,3 +56,63 @@ Sie spielen Jazz gern.
 Anjalee
 Sinhala, English, und Deutsch
 
+Viktor
+Er ist Viktor, er kommt aus schweden, Er wohnt in Stockholm, Er spricht Schwedisch, Englisch, Danisch, und Chinesisch. Er fotografiert  gern.
+
+Max
+Er ist Max. Er kommt aus Osterreich. Er wohnt in Graz. Er spricht Italienisch. Er hore Musik gern. 
+
+Alexis und Yanis
+Sie sind Alexis und Yanis. Sie kommen aus Athen. Sie wohne in Griechenland. Sie spielen Fusball gern. Sie sprichen Englisch und Deutsch.
+
+lieber (not a verb)
+
+Ja, Wie sprechen Englisch
+Ja, wir kochen gern.
+Ja, wir lernen jezt Deutsch
+Nein, wir wohnen in Athen.
+Ja ich hore musik gern
+Nein, wie machen liber gymnastik.
+Ja, ich fotografiern gern.
+Nein, wir kommen aus Schweden.
+
+st - Du
+
+Er wohnt in Athen.
+Ich spreche Spanisch.
+Wo wohnst du?
+Wie lernen jetzt Deutsch.
+Ihr fotografiert gern.
+
+Woher kommst Du?
+Wo wohnst du?
+Spielst du gern Gitarre?
+Welche Sprechen sprichst du?
+Sprichst du Spanisch?
+
+Ich heisse Weihang. 
+Ich komme aus China
+Inch wohne in Dresden
+Ich spiele Videospiele gern.
+Ich spreche Englisch und Chinesesch
+
+Nach a o u a u wird nach X
+
+1. Wohnen Sie in Helsinki? Nein, wir wohnen in Oslo.
+2. Lernt ihr Deutsch? Nein, wir lernen Russisch jetzt.
+3. Kochen Sie gern? Nein, wir machen lieber Sport.
+4. Spielt er Fußball gern? Nein, er lieber schwimmt.
+5. Wohnen sie in Deutschland? Nein, Sie wohnen in Amerika.
+6. Kommen Sie aus Zürich? Nein, Sie kommen aus Basel.
+
+7. Sprechen Sie Französisch? Nein, ich spreche Englisch und Deutsch.
+
+
+Ich bin Entwickler; ich mache Videospiele.
+
+Sulgna barista; Sie machen Koffee
+
+Eliud Dozent; Er unterrichete Schüler.
+
+Reisenderin
+ 
