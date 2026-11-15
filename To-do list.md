@@ -3,23 +3,26 @@ Add tasks with `- [ ] Task`.
 - [x] Finish Operator slides
 - [x] Linear programming 2nd slide
 - [x] Exercise 1
-- [ ] Logistic regression
-- [ ] Deep Learning
+- [x] Logistic regression
+- [x] Deep Learning
+- [ ] Exercise 2
+- [ ] Exercise 3
 ### Machine Learning
 - [ ] Linear functions
 - [ ] BDT Exercise
-- [ ] Deep Learning
+- [x] Deep Learning
 ### Advanced Problem Solving and Search
 - [x] Review traditional search
 - [ ] Tutorial 1
 - [ ] Tutorial 2
-- [ ] Preview Local Search
+- [ ] Local Search
+- [ ] Tuba Search
 ### Distributed Systems
 - [ ] Distributed System Architecture Slides
 ### Data Visualization
-- [ ] Dear Data
-- [ ] Perception Slides
-- [ ] Second Exercise
+- [ ] Dear Data Exercise
+- [ ] Perception
+- [ ] Exercise 2
 ## Exam preparation
 - [ ] Explain what logistic regression is.
 - [ ] Identify and explain the logistic loss function.

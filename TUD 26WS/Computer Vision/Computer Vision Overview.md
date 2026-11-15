@@ -52,8 +52,8 @@ Existing note titles are preserved. Future topic folders are prepared but empty;
 
 ### 03 — Machine Learning for Computer Vision
 
-- Notes: [[Logistic Regression]]
-- Local slides: [[02-mlcv-1.pdf|Logistic regression]] · [[03-mlcv-2.pdf|Deep learning for computer vision]]
+- Notes: [[Logistic Regression Notes|Logistic Regression]]
+- Local slides: [[01- Logistic Regression I.pdf|Logistic regression]] · [[02- Lgostic Regression II.pdf|Deep learning for computer vision]]
 - Attention and transformers for computer vision
 
 ### 04 — Classification of Digital Images
