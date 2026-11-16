@@ -5,11 +5,13 @@ Add tasks with `- [ ] Task`.
 - [x] Exercise 1
 - [x] Logistic regression
 - [x] Deep Learning
-- [ ] Exercise 2
+- [x] Exercise 2
 - [ ] Exercise 3
+- [ ] Exercise 4
 ### Machine Learning
 - [ ] Linear functions
 - [ ] BDT Exercise
+- [ ] Logistic regression Exercise
 - [x] Deep Learning
 ### Advanced Problem Solving and Search
 - [x] Review traditional search
