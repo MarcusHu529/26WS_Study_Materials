@@ -64,6 +64,7 @@ Outline source: [[Data Visualization - Course Organization.pdf#page=5|Course con
 ### 01 — Perception
 
 - Local slides: [[DataVis-2026-02_Perception.pdf]]
+- Notes: [[Perception Notes]]
 
 ### 02 — Visual Attributes
 

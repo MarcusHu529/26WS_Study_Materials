@@ -22,8 +22,8 @@ Add tasks with `- [ ] Task`.
 ### Distributed Systems
 - [ ] Distributed System Architecture Slides
 ### Data Visualization
-- [ ] Dear Data Exercise
-- [ ] Perception
+- [ ] Exercise 1
+- [x] Perception
 - [ ] Exercise 2
 ## Exam preparation
 - [ ] Explain what logistic regression is.

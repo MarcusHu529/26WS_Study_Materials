@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "80ef61c4db9901e6",
+        "id": "c5979f01e3d234a5",
         "type": "tabs",
         "children": [
           {
-            "id": "0cd87d422ad89801",
+            "id": "a941d4b3acfebfe8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TUD 26WS/Computer Vision/Exercises/02 - Convolution and Image Filters/CV_Ex_2_solution.pdf"
+                "file": "To-do list.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CV_Ex_2_solution"
+              "icon": "lucide-file",
+              "title": "To-do list"
             }
           }
         ]
@@ -185,11 +187,13 @@
       "pdf-notes:PDF.notes (New blank file)": false
     }
   },
-  "active": "0cd87d422ad89801",
+  "active": "a941d4b3acfebfe8",
   "lastOpenFiles": [
-    "TUD 26WS/Computer Vision/Exercises/02 - Convolution and Image Filters/Computer Vision Exercise 02 — C++ & OpenCV Programming Notes.md",
-    "TUD 26WS/Computer Vision/Exercises/02 - Convolution and Image Filters/CV_Ex_2_solution.pdf",
+    "TUD 26WS/Data Visualization/Lectures/01 - Perception/Perception Notes.md",
+    "TUD 26WS/Data Visualization/Lectures/01 - Perception/DataVis-2026-02_Perception.pdf",
     "To-do list.md",
+    "TUD 26WS/Computer Vision/Exercises/02 - Convolution and Image Filters/CV_Ex_2_solution.pdf",
+    "TUD 26WS/Computer Vision/Exercises/02 - Convolution and Image Filters/Computer Vision Exercise 02 — C++ & OpenCV Programming Notes.md",
     "TUD 26WS/Advanced Problem Solving and Search/Lectures/02 - Local Search and Simulated Annealing/Local Search.pdf",
     "TUD 26WS/Machine Learning/Exercises/Deciding with linear functions Logistic regression/04.pdf",
     "TUD 26WS/Computer Vision/Exercises/02 - Convolution and Image Filters/Convolution and Image Filters - Exercise 02.pdf",
@@ -202,7 +206,6 @@
     "TUD 26WS/Computer Vision/Lectures/03 - Machine Learning for Computer Vision/01- Logistic Regression I.pdf",
     "TUD 26WS/Machine Learning/Machine Learning Overview.md",
     "TUD 26WS/Machine Learning/Lectures/02 - Supervised Learning - Binary Decision Trees/Binary Decision Trees.md",
-    "TUD 26WS/Machine Learning/Lectures/01 - Supervised Learning - Introduction/01-supervised-learning-introduction.pdf",
     "2026-11-14.md",
     "Logistic Regression.md",
     "TUD 26WS/Advanced Problem Solving and Search/Advanced Problem Solving and Search Overview.md",
@@ -228,7 +231,6 @@
     "TUD 26WS/Distributed Systems/Lectures/00 - Foundations/Introduction Notes.md",
     "TUD 26WS/Data Visualization/Exercises/01 - Foundations and Dear Data/Notes from A1.md",
     "TUD 26WS/Data Visualization/Exercises/01 - Foundations and Dear Data/DataVis CW 00 & 01.md",
-    "TUD 26WS/Data Visualization/Data Visualization Overview.md",
     "TUD 26WS/Computer Vision/Lectures/02 - Operators on Digital Images/Digital Image Slide.png",
     "TUD 26WS/Computer Vision/Operators on Digital Images/Digital images/Digital Image Slide.png",
     "Pasted image 20261018113509.png",
