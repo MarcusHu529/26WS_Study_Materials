@@ -9,10 +9,10 @@ Add tasks with `- [ ] Task`.
 - [ ] Exercise 3
 - [ ] Exercise 4
 ### Machine Learning
-- [ ] Linear functions
+- [x] Linear functions
+- [x] Deep Learning
 - [ ] BDT Exercise
 - [ ] Logistic regression Exercise
-- [x] Deep Learning
 ### Advanced Problem Solving and Search
 - [x] Review traditional search
 - [ ] Tutorial 1
@@ -20,12 +20,21 @@ Add tasks with `- [ ] Task`.
 - [ ] Local Search
 - [ ] Tuba Search
 ### Distributed Systems
-- [ ] Distributed System Architecture Slides
+- [ ] Foundations
+- [ ] Distributed System Architectures
+- [ ] Communication
 ### Data Visualization
-- [ ] Exercise 1
 - [x] Perception
+- [x] Exercise 1
 - [ ] Exercise 2
 ## Exam preparation
 - [ ] Explain what logistic regression is.
 - [ ] Identify and explain the logistic loss function.
 - [ ] Review the two assumptions mentioned in the original reminder.
+
+### Friday
+- [ ] Distributed Systems
+### Saturday 
+- [ ] DataVis
+### Sunday
+- [ ] APSS

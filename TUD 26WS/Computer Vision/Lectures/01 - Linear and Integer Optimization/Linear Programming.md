@@ -237,10 +237,10 @@ We'll use the **farm feed problem from Lecture 1**, and then apply the solution 
 A farmer purchases two types of feed.
 
 | Nutrient or cost | Feed 1 | Feed 2 | Minimum required |
-|--------|--------|--------|--------|
-| Protein | 200 | 100 | 400 |
-| Fibre | 100 | 300 | 600 |
-| Cost per kg | €2 | €3 | — |
+| ---------------- | ------ | ------ | ---------------- |
+| Protein          | 200    | 100    | 400              |
+| Fibre            | 100    | 300    | 600              |
+| Cost per kg      | €2     | €3     | —                |
 
 Let:
 
